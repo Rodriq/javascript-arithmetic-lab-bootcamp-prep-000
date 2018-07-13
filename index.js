@@ -17,7 +17,8 @@ var a, b
   }
   function inc(n){
       return n+=n;
-  }function dec(a){
+  }
+  function dec(a){
       return a-=a;
   }
   
