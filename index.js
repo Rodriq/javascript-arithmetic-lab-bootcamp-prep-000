@@ -25,7 +25,7 @@ var a, b
       return parseInt(a)
   }
   function preserveDecimal(a){
-      return preserveDecimal(a)
+      return parseFloat(a)
   }
   
   
